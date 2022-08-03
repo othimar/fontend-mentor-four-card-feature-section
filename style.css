@@ -14,6 +14,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: Poppins, sans-serif;
 }
 body{
     display: flex;
@@ -49,7 +50,7 @@ h1,h2,p{
 h1,h2{
     color: var(--very-dark-blue);
     margin: 2px 0;
-    font-size: 22px;
+    font-size: 27px;
 }
 h1{
     font-weight: 200;
@@ -60,22 +61,23 @@ main>p{
 h2{
     margin-top: 10px;
     margin-bottom: 25px;
+    font-weight: 600;
 }
 
 .main-flex{
-    margin-top: 80px;
+    margin-top: 60px;
 }
 .card{
     background-color: white;
     border-radius: 8px;
-    box-shadow: 0 8px 40px 15px rgba(76, 78, 97, 0.1);
+    box-shadow: 0px 29px 21px -1px rgba(0,0,0,0.29);
 
     margin-bottom: 30px;
 
     
 }
 .card-content{
-    padding: 20px;
+    padding: 30px;
 }
 
 .top-border{
@@ -106,6 +108,7 @@ h3{
     line-height: 1.4;
 }
 .image-container{
+    padding-top: 35px;
     text-align: end;
 }
 
@@ -115,12 +118,14 @@ h3{
         justify-content: center;
     }
     .card{
-        margin: 10px;
+        margin: 8px;
+        max-width: 350px;
     }
     .column{
         display: flex;
         flex-direction: column;
         justify-content: center;
         width: 25%;
+        padding: 8px;
     }
 }
