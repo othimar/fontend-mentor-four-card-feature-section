@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/othimar/fontend-mentor-four-card-feature-section/)
-- Live Site URL: [Add live site URL here](https://othimar.github.io/fontend-mentor-four-card-feature-section/)
+- Solution URL: https://github.com/othimar/fontend-mentor-four-card-feature-section/
+- Live Site URL: https://othimar.github.io/fontend-mentor-four-card-feature-section/
 
 ## My process
 
